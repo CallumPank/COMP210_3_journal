@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  10 NOV 2017 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  13 NOV 2017 14:26
 entering extended mode
 **./ResearchJournal.tex
 (ResearchJournal.tex
@@ -283,8 +283,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-)
-No file ResearchJournal.aux.
+) (ResearchJournal.aux)
 \openout1 = `ResearchJournal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -303,6 +302,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 \AtBeginShipoutBox=\box30
 Package hyperref Info: Link coloring OFF on input line 26.
+
 (D:\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -314,50 +314,116 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 26.
 LaTeX Info: Redefining \pageref on input line 26.
 LaTeX Info: Redefining \nameref on input line 26.
+ (ResearchJournal.out)
+(ResearchJournal.out)
 \@outlinefile=\write3
 \openout3 = `ResearchJournal.out'.
 
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
 
-No file ResearchJournal.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+
+LaTeX Warning: Citation `kalawsky1999vruse' on page 1 undefined on input line 3
+4.
+
+
+LaTeX Warning: Citation `bordegoni2009evaluation' on page 1 undefined on input 
+line 36.
+
 [1
 
 
 {C:/Users/Callum/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
 
-(ResearchJournal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
+
+LaTeX Warning: Citation `jang2011overlapping' on page 2 undefined on input line
+ 39.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+LaTeX Warning: Citation `olsson2011online' on page 2 undefined on input line 39
+.
+
+[2]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+ [3]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ (ResearchJournal.bbl
+Underfull \hbox (badness 1168) in paragraph at lines 25--31
+\OT1/cmr/m/n/10.95 in-ter-faces for vr ap-pli-ca-tions: Eval-u-a-tion on pro-to
+-types,'' in \OT1/cmr/m/it/10.95 Com-puter and
+ []
 
 
-Package rerunfilecheck Warning: File `ResearchJournal.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Underfull \hbox (badness 5878) in paragraph at lines 25--31
+\OT1/cmr/m/it/10.95 Au-to-nomic and Se-cure Com-put-ing; Per-va-sive In-tel-li-
+gence and Com-put-ing
+ []
 
-Package rerunfilecheck Info: Checksums for `ResearchJournal.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D4135BD339D235825C0D66493A5C1725;47.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
+
+Underfull \hbox (badness 1924) in paragraph at lines 38--42
+\OT1/cmr/m/n/10.95 for vir-tual en-vi-ron-ments,'' in \OT1/cmr/m/it/10.95 Pro-c
+eed-ings of the 7th Nordic Con-fer-ence on
+ []
+
+[4])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
+ (ResearchJournal.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
+Package rerunfilecheck Info: File `ResearchJournal.out' has not changed.
+(rerunfilecheck)             Checksum: 83BE75B4C81A9A189D2091A33CA68B74;61.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 8 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6761 strings out of 493333
- 109124 string characters out of 3146975
- 282706 words of memory out of 3000000
- 10282 multiletter control sequences out of 15000+200000
- 6785 words of font info for 25 fonts, out of 3000000 for 9000
+ 6811 strings out of 493333
+ 110024 string characters out of 3146975
+ 285056 words of memory out of 3000000
+ 10310 multiletter control sequences out of 15000+200000
+ 7439 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,51p,8828b,1549s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmssbx10.pfb>
-Output written on ResearchJournal.pdf (1 page, 32014 bytes).
+ 41i,6n,51p,8828b,1655s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on ResearchJournal.pdf (5 pages, 92841 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 72 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
